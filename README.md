@@ -1,4 +1,4 @@
-# 🔥 Student Roast Bot — by Mosin
+# 🔥  Roast Me Bot — by Mosin
 
 A hilarious AI-powered roast bot for Indian college students!
 Get roasted based on your course — MBBS, BCA, B.Tech, MBA and more!
